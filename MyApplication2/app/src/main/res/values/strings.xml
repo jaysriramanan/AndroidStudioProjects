@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="hint">Enter your name</string>
+    <string name="hint1">Enter message to display</string>
+</resources>
